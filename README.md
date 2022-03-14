@@ -3,7 +3,7 @@
 ## Summary
 In this mini project I am modeling how to create and alter custom cursors. I built the custom cursor and click animation to be rudimentary by design to maintain focus on the code functionality. HTML and CSS  files included, JS file is annotated with comments to walk you through the steps. Codepen link included below. If you like my work or you learned something, star this repo!
 
-## User Story
+## Test Scenarios:
 - The custom cursor should be displayed on page load.
 - The custom cursor follows user mouse movement.
 - The custom cursor follows user scroll movement.
